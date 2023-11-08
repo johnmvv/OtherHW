@@ -1,18 +1,6 @@
 import math
 import matplotlib.pyplot as plt
 import random
-#n1 is an integer
-#n2 is an integer
-#l1 < 3300/n1
-#l2 < 3300/n2
-#360 < l1 < 750
-#360 < l2 < 750
-#l1 != l2
-#n1 != n2
-#n1*l1 = n2*l2 = 300*sin(theta)
-#theta = 0 to 90
-#n1 < 10
-#n2 < 10
 
 l1s = []
 l2s = []
